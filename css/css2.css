@@ -1,0 +1,54 @@
+h5
+{
+	font-size: 14px;
+	color: ffffff;
+	font-family: arial;
+	text-decoration: none;
+}
+/* Forms */
+label
+{
+width: 20em;
+float: left;
+text-align: left;
+margin-right: 0.5em;
+display: block
+color: #ffffff;
+}
+
+input
+{
+color: #781351;
+background: #fff;
+border: 1px solid #781351
+margin-bottom: 2em;
+}
+select
+{
+color: #781351;
+background: #fff;
+border: 1px solid #781351
+margin-bottom: 2em;
+}
+fieldset
+{
+border: 1px solid #781351;
+width: 60em
+}
+.submit input
+{
+color: #fff;
+background: #555555;
+border: 2px outset #d7b9c9
+margin-left: 4.5em;
+}
+
+legend
+{
+color: #fff;
+background: #ffa20c;
+border: 1px solid #781351;
+padding: 2px 6px
+}
+
+
